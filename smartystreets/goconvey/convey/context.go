@@ -3,8 +3,8 @@ package convey
 import (
 	"fmt"
 
-	"github.com/jtolds/gls"
-	"github.com/smartystreets/goconvey/convey/reporting"
+	"beeGo/jtolds/gls"
+	"beeGo/smartystreets/goconvey/convey/reporting"
 )
 
 type conveyErr struct {

@@ -1,7 +1,7 @@
 package convey
 
 import (
-	"github.com/smartystreets/goconvey/convey/reporting"
+	"beeGo/smartystreets/goconvey/convey/reporting"
 )
 
 type nilReporter struct{}

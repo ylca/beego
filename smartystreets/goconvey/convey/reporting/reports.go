@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/smartystreets/goconvey/convey/gotest"
+	"beeGo/smartystreets/goconvey/convey/gotest"
 )
 
 ////////////////// ScopeReport ////////////////////

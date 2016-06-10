@@ -1,6 +1,6 @@
 package convey
 
-import "github.com/smartystreets/assertions"
+import "beeGo/smartystreets/assertions"
 
 var (
 	ShouldEqual          = assertions.ShouldEqual

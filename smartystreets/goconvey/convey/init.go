@@ -4,9 +4,9 @@ import (
 	"flag"
 	"os"
 
-	"github.com/jtolds/gls"
-	"github.com/smartystreets/assertions"
-	"github.com/smartystreets/goconvey/convey/reporting"
+	"beeGo/jtolds/gls"
+	"beeGo/smartystreets/assertions"
+	"beeGo/smartystreets/goconvey/convey/reporting"
 )
 
 func init() {
