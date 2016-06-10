@@ -27,9 +27,9 @@ import (
 	"sync"
 	"time"
 
-	beecontext "github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/toolbox"
-	"github.com/astaxie/beego/utils"
+	beecontext "beego/astaxie/beego/context"
+	"beego/astaxie/beego/toolbox"
+	"beego/astaxie/beego/utils"
 )
 
 // default filter execution points

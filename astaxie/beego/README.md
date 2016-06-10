@@ -17,7 +17,7 @@ More info [beego.me](http://beego.me)
 ```go
 package main
 
-import "github.com/astaxie/beego"
+import "beego/astaxie/beego"
 
 func main(){
     beego.Run()

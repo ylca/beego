@@ -37,7 +37,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/astaxie/beego/utils"
+	"beego/astaxie/beego/utils"
 )
 
 // NewContext return the Context with Input and Output

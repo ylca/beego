@@ -18,7 +18,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/astaxie/beego/config"
+	"beego/astaxie/beego/config"
 )
 
 //xml parse should incluce in <config></config> tags

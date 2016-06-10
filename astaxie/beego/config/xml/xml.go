@@ -41,8 +41,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/astaxie/beego/config"
-	"github.com/beego/x2j"
+	"beego/astaxie/beego/config"
+	"beego/beego/x2j"
 )
 
 // Config is a xml config parser and implements Config interface.
