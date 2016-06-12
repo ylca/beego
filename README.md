@@ -1,5 +1,5 @@
 
-以前的导包路径是github.com/xxx/xxx  现在被我改成geego/xxx/xxx 如果某些报错请自行修改一下
+以前的导包路径是github.com/xxx/xxx  现在被我改成beego/xxx/xxx 如果某些报错请自行修改一下
 
 官方网站:http://beego.me/
 
